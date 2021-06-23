@@ -2,6 +2,7 @@
 Projeto prático em PHP com banco de dados MySQL de um sistema de mapa de análise e identificação de focos de doenças
 
 *O ARQUIVO dompdf.rar DEVE SER DESCOMPACTADO*
+*O BANCO DE DADOS ENCONTRA-SE NO ARQUIVO maicd(1).sql*
 
 Utilize os usuários: "ale"; "uni"; "heb"; para acessar os dados dos paciente referentes a cada um dos centros de saúde que o usuário representa
 
